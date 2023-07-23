@@ -17,7 +17,8 @@
     "react-dom": "^18.2.0",
     "storybook": "^7.1.0",
     "tsup": "^7.1.0",
-    "typescript": "^5.1.6"
+    "typescript": "^5.1.6",
+    "w3-css": "^4.1.0"
   },
   "scripts": {
     "storybook": "storybook dev -p 6006",
