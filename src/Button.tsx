@@ -25,6 +25,7 @@ export interface ButtonProps {
      * Optional href
      */
     href?: string;
+    images?: any[];
 }
 
 /**
